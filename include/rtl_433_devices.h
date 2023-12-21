@@ -256,7 +256,7 @@
  */
 #  define DEVICES         \
     DECL(acurite_606)                \
-    DECL(lacross_tx141x)             \
+    DECL(lacrosse_tx141x)             \
 /* Add new personal decoders here. */
 #  define NUMOF_OOK_DEVICES 1
 #  define NUMOF_FSK_DEVICES 0
