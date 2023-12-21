@@ -328,6 +328,7 @@ void rtlSetup() {
 
 #else
     memcpy(&cfg->devices[0], &acurite_606, sizeof(r_device));
+    memcpy(&cfg->devices[1], &lacrosse_tx141x, sizeof(r_device));
 #endif
 
 #ifdef RTL_FLEX
